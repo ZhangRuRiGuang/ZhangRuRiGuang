@@ -66,27 +66,6 @@
 <h3 align="center">Activities</h3>
 
 
-<table align="center">
-    <tr>
-        <td align="center">
-              <div><b><em><spam>Statistics</spam></em></b></div>
-              <img align="left" src="https://metrics.lecoq.io/ShenQingchuan?template=classic&base.header=0&base.metadata=0&base.indepth=false&base.hireable=false&config.timezone=Asia%2FShanghai" />
-        </td>
-        <td align="left">
-            <div align="center"><b><em><spam>Recent</spam></em></b></div>
-            <ul>
-                <li >🔭 I’m currently working on <a href="https://github.com/vitejs/docs-cn">docs-cn</a> maintaining ... </li>
-                <li >💻 I’m interested in making useful terminal (CLI) application. e.g.
-                    <a href="https://github.com/ShenQingchuan/meditate">Meditate</a>, 
-                    <a href="https://github.com/ShenQingchuan/tsc-err-dirs">tsc-err-dirs</a> 
-                </li>
-                <li >🌱 I’m currently learning Rust、WindiCSS ... </li>
-                <li >🔧 I’m refactoring my graduation design works - a WSIWYG and collaborative editor <a href="https://github.com/ShenQingchuan/HeteroDoc">HeteroDoc</a> </li>
-                <li>⛺️ I have a private site: <a href="https://heterocube.top">Heterocube</a>, you're welcome to come!~ </li>
-            </ul>
-        </td>
-    </tr>
-</table>
 
 <h3 align="center">My Memes</h3>
 
