@@ -90,17 +90,3 @@
 
 <h3 align="center">My Memes</h3>
 
-<p
-    <samp> <b>龙，答应我，收购苹果。</b> </samp>
-    <div align="left">
-      <a href="#">
-        <img src="https://user-images.githubusercontent.com/46062972/177761749-da9d5297-87ac-4c30-b069-16bc685a7e80.png" width="150"> 
-        <span>&nbsp;&nbsp;&nbsp;</span>
-        <img src="https://user-images.githubusercontent.com/46062972/177762098-5ea66dc6-5c5b-4877-9edc-0610f4816530.jpeg" width="150">
-        <span>&nbsp;&nbsp;&nbsp;</span>
-        <img width="160px" src="https://user-images.githubusercontent.com/46062972/180403602-495bd61a-139d-423b-9cfb-74c7b47cdab4.png" />
-        <span>&nbsp;&nbsp;&nbsp;</span>
-        <img width="200px" src="https://user-images.githubusercontent.com/46062972/190098300-f9aa3a1f-5898-43d0-ba3e-f7e1d95ca507.png" />
-      </a>
-    </div>
-</p>
