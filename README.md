@@ -21,7 +21,7 @@
 </div>
 <p align="center">
     <samp>
-    I am a .....................
+    I am a ...
     </samp>
 </p>
 
