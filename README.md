@@ -36,32 +36,11 @@
 <h3 align="center">Social</h3>
 <p align="center">
     <samp>
-       Email: tmy991106@gmail.com
+       Email: brse.zhangguang@gmail.com
     </samp>
-    <br/><br/>
-    <code> <a href="https://web.okjike.com/u/AB2C438B-6A6A-4625-9722-23A816DFB768"> <img height="20" src="https://user-images.githubusercontent.com/46062972/190096676-6095c719-4cf5-4148-afc2-a00b256b6e40.png"></a></code> &nbsp;
-    <code> <a href="https://twitter.com/Shenqingchuan"> <img height="20" src="https://user-images.githubusercontent.com/46062972/190095674-1edcfa35-6ea9-47b4-b969-35ff9104e7cd.png"></a></code> &nbsp;
-    <code> <a href="https://www.zhihu.com/people/tang-meng-yu-53"> <img height="20" src="https://user-images.githubusercontent.com/46062972/190096127-e3cadf80-6858-4ae4-981c-632246d7b82f.png"></a></code> &nbsp;
-    <code> <a href="https://weibo.com/u/6803477099"> <img height="20" src="https://user-images.githubusercontent.com/46062972/190096532-03e4290e-b88d-49c1-acbb-99f700b3b7ed.png"></a></code> &nbsp;
-        <code> <a href="https://space.bilibili.com/7473239"> <img height="20" src="https://user-images.githubusercontent.com/46062972/194840497-22835c48-f50b-483e-ad6c-98548d463944.png"></a></code> &nbsp;
+
 </p>
 
-<table align="center">
-    <tr>
-        <td align="center">
-            <a href="https://discord.gg/uGezZ3xMxy">
-                <img src="https://user-images.githubusercontent.com/46062972/180124463-e698d9f2-7d1b-4fbc-bce5-f98c01c39bc5.png" height="60px" />
-            </a>
-            <div><b><em><spam>Discord</spam></em></b></div>
-        </td>
-        <td align="center">
-            <a href="https://www.kookapp.cn/app/channels/1680614231520080/7765975899421527">
-                <img src="https://user-images.githubusercontent.com/46062972/190089430-4de2f728-4c97-45af-8a54-01b66a86a596.png" height="60px" />
-            </a>
-            <div><b><em><spam>KOOK</spam></em></b></div>
-        </td>
-    </tr>
-</table>
 
 <h3 align="center">Activities</h3>
 
