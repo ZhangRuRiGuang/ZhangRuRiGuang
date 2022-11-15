@@ -17,7 +17,7 @@
 
 
 <div align="center">
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&color=35B1C5&duration=2500&lines=Inspire+Creativity%2C+Enrich+life.">
 </div>
 <p align="center">
     <samp>
