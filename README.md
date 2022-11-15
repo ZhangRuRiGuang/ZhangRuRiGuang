@@ -21,7 +21,7 @@
 </div>
 <p align="center">
     <samp>
-    I am a ...
+    I am a blockchain developer , Ask Me Anything!
     </samp>
 </p>
 
