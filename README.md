@@ -23,7 +23,6 @@
 <p align="center">
     <samp>
        Email: brse.zhangguang@gmail.com
-       Facebook : https://www.facebook.com/profile.php?id=100092746637069
        Zalo : 
     </samp>
 
