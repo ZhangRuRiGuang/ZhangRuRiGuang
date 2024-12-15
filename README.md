@@ -5,7 +5,7 @@
 <h1 align="center">Hi, I'm Quang!</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&color=35B1C5&duration=2500&center=true&vCenter=true&lines=Bridge+Software+Engineer;Blockchain+Developer;Lifelong+Learner" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&color=35B1C5&duration=2500&center=true&vCenter=true&lines=Bridge+Software+Engineer;Lifelong+Learner" />
 </div>
 
 ---
